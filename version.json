@@ -1,12 +1,13 @@
 {
   "versionCode": 101592,
   "versionName": "2.1.592",
-  "apkUrl": "https://github.com/eliasmercury/living-motion-releases/releases/download/v101592/LivingMotionCoach-v101592-release.apk",
-  "apkUrlFallback": "http://176.109.105.81/apk/LivingMotionCoach-latest.apk",
+  "apkUrl": "https://github.com/eliasmercury/living-motion-releases/releases/latest/download/LivingMotionCoach-latest.apk",
+  "apkUrlFallback": "https://github.com/eliasmercury/living-motion-releases/releases/download/v101592/LivingMotionCoach-v101592-release.apk",
   "sha256": "2b66505206269195ab032b96c2c2cf6b240d28ba676bb9d74e0b6d9e5441622d",
-  "changelog": "- Apply approved Living Motion redesign and fix diary state\n- Polish Living Motion mobile landing and guard release publication\n- Pin the next-chat resume point at commit bfedded.\n- Polish production screens for diary, light theme, and honest first folds.\n- Record that the public APK now uses living-motion-coach.\n- Remove the one-off keystore export workflow.\n- Publish SHA-256 for the new signed 2.1.454 APK.\n- Bypass PowerShell execution policy when decoding the keystore.\n- Use Windows PowerShell on the self-hosted keystore export job.\n- Add a self-hosted job that writes KEYSTORE_BASE64 to this machine.\n- Put Living Motion on one line, open the tracking, pin copy to the left edge.\n- Shift the session left and open the letter spacing.\n- Wrap mobile copy and keep hashed CSS on Pages.\n- Put the session copy on the left, park the phone further right, and lift the dark veil.\n- Add a Profile chapter and keep the skip link off-screen until focus.\n- Sculpt the Motion Coach to match the ChatGPT LM robot.\n- Add the LM robot GLB preview: rig, 15 clips, not on the landing yet.\n- Let the intro photo show through instead of a black wall.\n- Restore the session light, copy width, and heading size.\n- Remove the bouncing coach and keep intro copy on screen.",
+  "changelog": "Профиль: чёткие объёмные значки, цельные фоны карточек и фотография вместо смайликов.\nЦели и уровень: выбор сохраняется без скачков экрана.\nУпражнения: понятные названия и фильтры, переходы к технике и мышцам, цветные полосы условного акцента по роли мышцы.\nПитание: сканер сохраняет выбранные дату и приём пищи; исправлены расчёт порции и шаблоны.\nДостижения: для 36 карточек подключены разные иллюстрации.",
   "forceUpdate": false,
   "minVersionCode": 1,
   "buildDate": "2026-10-02T22:13:41Z",
-  "commitSha": "2d51259c9d2d5c3f059e3775d557f54abf481508"
+  "commitSha": "2d51259c9d2d5c3f059e3775d557f54abf481508",
+  "apkSizeBytes": 297679599
 }
